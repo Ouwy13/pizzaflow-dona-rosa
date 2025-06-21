@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary # Driver para PostgreSQL
+python-dotenv # Para ler o arquivo .env
